@@ -1,0 +1,6 @@
+{
+  "name": "REALSPACE Interiors",
+  "description": "Premium, modern, luxury interior design studio based in Thane. Bespoke space-first residential & commercial interiors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
